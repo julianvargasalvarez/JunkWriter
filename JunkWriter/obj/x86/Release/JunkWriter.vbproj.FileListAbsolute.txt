@@ -1,0 +1,10 @@
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\bin\Release\JunkWriter.exe
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\bin\Release\JunkWriter.pdb
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\bin\Release\JunkWriter.xml
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\JunkWriter.Resources.resources
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\JunkWriter.exe
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\JunkWriter.xml
+c:\users\julian\documents\visual studio 2010\Projects\JunkWriter\JunkWriter\obj\x86\Release\JunkWriter.pdb
